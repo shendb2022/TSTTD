@@ -1,6 +1,6 @@
 ### TSTTD
 
-Efficient replication for the paper: "Triplet Spectral-Wise Transformer Network for Hyperspectral Target Detection", TGRS, 2023.
+Efficient replication for the paper: "Triplet Spectralwise Transformer Network for Hyperspectral Target Detection", TGRS, 2023.
 
 ### Dependencies
 
